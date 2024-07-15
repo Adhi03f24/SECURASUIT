@@ -37,7 +37,7 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Adhi03f24/SECURASUIT.git
    ```
 
 2. Install the required Python libraries:
