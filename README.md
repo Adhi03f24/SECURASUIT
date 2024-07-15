@@ -55,11 +55,11 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
 
    ```bash
    @echo off
-   python "C:\path\to\adhi's_tool.py"
+   python "C:\path\to\SECURASUIT.py"
    pause
    ```
 
-   Replace `C:\path\to\adhi's_tool.py` with the actual path to the Python script.
+   Replace `C:\path\to\SECURASUIT.py` with the actual path to the Python script.
 
 2. **Run the Tool:**
 
