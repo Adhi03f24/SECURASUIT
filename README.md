@@ -44,6 +44,7 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
    ```bash
    pip install paramiko smbprotocol pikepdf requests
    ```
+   or
    ```bash
    pip install -r .\requirements.txt
    ```
