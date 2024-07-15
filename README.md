@@ -44,8 +44,11 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
    ```bash
    pip install paramiko smbprotocol pikepdf requests
    ```
+   ```bash
+   pip install -r .\requirements.txt
+   ```
 
-3. Ensure you have the `tkinter` library installed. This is usually included with Python, but if not, you can install it using your package manager.
+4. Ensure you have the `tkinter` library installed. This is usually included with Python, but if not, you can install it using your package manager.
 
 ## Usage
 
