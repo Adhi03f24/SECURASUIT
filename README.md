@@ -55,7 +55,7 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
 
 1. **Create the Batch File:**
 
-   Save the following content in a file named `run_tool.bat`:
+   Save the following content in a file named `SECURASUIT.bat`:
 
    ```bash
    @echo off
@@ -67,7 +67,7 @@ Welcome to Adhi03f24's SECURASUIT! This tool is a comprehensive security assessm
 
 2. **Run the Tool:**
 
-   Simply double-click the `run_tool.bat` file to start the tool. This will open the GUI.
+   Simply double-click the `SECURASUIT.bat` file to start the tool. This will open the GUI.
 
 3. **GUI Usage:**
 
