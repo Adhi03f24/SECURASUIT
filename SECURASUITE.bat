@@ -1,3 +1,3 @@
 @echo off
-python "C:\Users\adhit\Documents\malware analysis\tools\SECURASUITE.py"
+python "C:\path\to\SECURASUIT.py"
 pause
